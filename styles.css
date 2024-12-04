@@ -1,0 +1,80 @@
+.gear {
+  margin-top: 60px;
+  z-index: -5;
+  position: relative;
+  background-color: #ccc;
+  width: 380px;
+  height: 380px;
+  border-radius: 100%;
+}
+
+.gear div {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-color: #fff;
+}
+
+.hole-1 {
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.hole-2 {
+  top: 0;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.hole-3 {
+  top: 100%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.hole-4 {
+  top: 50%;
+  left: 0;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.hole-5 {
+  top: 50%;
+  right: 0;
+  margin-top: -50px;
+  margin-right: -50px;
+}
+
+.hole-6 {
+  top: 15%;
+  left: 15%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.hole-7 {
+  top: 85%;
+  left: 15%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.hole-8 {
+  top: 85%;
+  left: 85%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.hole-9 {
+  top: 15%;
+  left: 85%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
